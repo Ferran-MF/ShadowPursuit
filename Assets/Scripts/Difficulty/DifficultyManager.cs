@@ -32,19 +32,19 @@ public class DifficultyManager : MonoBehaviour
         {
             case Difficulty.Easy:
                 enemy1.SetActive(true);
-                enemy2.SetActive(false);
+                if (enemy2 != null) enemy2.SetActive(false);
                 currentBatteryLoss = easyBatteryLoss;
                 currentBatteryGain = easyBatteryGain;
                 break;
             case Difficulty.Medium:
                 enemy1.SetActive(true);
-                enemy2.SetActive(false);
+                if (enemy2 != null) enemy2.SetActive(false);
                 currentBatteryLoss = mediumBatteryLoss;
                 currentBatteryGain = mediumBatteryGain;
                 break;
             case Difficulty.Hard:
                 enemy1.SetActive(true);
-                enemy2.SetActive(true);
+                if (enemy2 != null) enemy2.SetActive(true);
                 currentBatteryLoss = hardBatteryLoss;
                 currentBatteryGain = hardBatteryGain;
                 break;

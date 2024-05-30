@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 44d0aceac9dd5ec40a53d23287f2def3, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: af14388dad80cc148baad3bdfa24fc3e, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -2869,8 +2869,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.96981126, g: 0.8719972, b: 0.5178426, a: 1}
-  m_Intensity: 1.81
+  m_Color: {r: 0.90943396, g: 0.77589804, b: 0.5336489, a: 1}
+  m_Intensity: 0.67
   m_Range: 7
   m_SpotAngle: 92
   m_InnerSpotAngle: 21.80208
@@ -6725,8 +6725,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.96981126, g: 0.8719972, b: 0.5178426, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.90943396, g: 0.77589804, b: 0.5336489, a: 1}
+  m_Intensity: 0.67
   m_Range: 10
   m_SpotAngle: 92
   m_InnerSpotAngle: 21.80208
@@ -7625,8 +7625,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.96981126, g: 0.8719972, b: 0.5178426, a: 1}
-  m_Intensity: 0.5
+  m_Color: {r: 0.90943396, g: 0.77589804, b: 0.5336489, a: 1}
+  m_Intensity: 0.67
   m_Range: 7
   m_SpotAngle: 92
   m_InnerSpotAngle: 21.80208

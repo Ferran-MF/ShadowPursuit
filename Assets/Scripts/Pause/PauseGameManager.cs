@@ -70,9 +70,9 @@ public class PauseGameManager : MonoBehaviour
         audioManager.PlaySFX(audioManager.buttonClick);
         isPaused = false;
         Time.timeScale = 1;
+        SceneManager.LoadScene("Main Menu");
         enemy2.SetActive(true);
         Destroy(FindAnyObjectByType<DifficultyManager>());
-        SceneManager.LoadScene("Main Menu");
     }
 
     public void RestartLevel()
