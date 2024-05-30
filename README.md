@@ -7,7 +7,6 @@
 * [TikTok](#tiktok)
 
 ## About the project
-Gateway is a simple 2D platformer with different mechanics that you will unlock as you play through the levels. It's my first project done with Unity and it's been developed over 3 weeks. The game is heavily inspired by the level from Geometry Dash "Gateway" by VYP.
 Shadow Pursuit it's a typical backroom game where you have to escape the maze while an entity chases you and tries to kill you. It's the first time I've made a game in Unity so it's possible that there will be bugs and things to improve. But with the time spent and the lack of knowledge, I'm quite satisfied with the game.
 
 ## Game design document
@@ -15,10 +14,12 @@ Before I started programming the game I made a file compiling the idea of the ga
 
 ## User guide
 If you enter the game without any information you may get lost, or you may not know where to go or how to interact with the objects, to help you I have made the following user manual with controls and other things:
+
 [User Guide](https://docs.google.com/document/d/1HVxv3UzfqX-xBGpXzzlxqPYhnLardTRMbsDZMnw48Ns/edit?usp=drive_link)
 
 ## Video demo
 Last but not least, i made a video explaining a with about this game and gampeplay of it so you can check how it looks.
+
 [Video]()
 
 ## Releases
