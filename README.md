@@ -24,8 +24,8 @@ Last but not least, i made a video explaining a with about this game and gampepl
 
 ## Releases
 This game is available on these operating systems, click on the one you have and download the folder if you want to try it out:
-- [Windows](https://drive.google.com/file/d/1HENsc61Gr4mjsaEO32jdcByWUFH_y4aJ/view?usp=drive_link)
-- [Linux](https://drive.google.com/file/d/17h-NC3rPtuKLm40qW0I-Z7ZGgZGIexSS/view?usp=drive_link)
+- [Windows](https://drive.google.com/file/d/1V2YqcLnkbtpIeFLx8ZCnvCjY5PqBJiKV/view?usp=sharing)
+- [Linux](https://drive.google.com/file/d/1bJXJ-GurMyJsLqRBneI44Rs_LEdIcZ3K/view?usp=sharing)
 
 ## TikTok
 For advertisement purposes, I made this short [tiktok](#).
