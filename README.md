@@ -28,4 +28,4 @@ This game is available on these operating systems, click on the one you have and
 - [Linux](https://drive.google.com/file/d/1bJXJ-GurMyJsLqRBneI44Rs_LEdIcZ3K/view?usp=sharing)
 
 ## TikTok
-For advertisement purposes, I made this short [tiktok](#).
+For advertisement purposes, I made this short [tiktok](https://www.tiktok.com/@shadowpursuit.fm/video/7375557397588348193?is_from_webapp=1&sender_device=pc&web_id=7361477500592342560).
