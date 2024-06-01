@@ -20,7 +20,7 @@ If you enter the game without any information you may get lost, or you may not k
 ## Video demo
 Last but not least, i made a video explaining a with about this game and gampeplay of it so you can check how it looks.
 
-[Video]()
+[Video](https://drive.google.com/file/d/1vtq4penbicfE4UFCr2IwBOLg_plVgpRR/view?usp=drive_link)
 
 ## Releases
 This game is available on these operating systems, click on the one you have and download the folder if you want to try it out:
